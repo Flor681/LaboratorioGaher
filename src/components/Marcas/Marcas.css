@@ -1,0 +1,30 @@
+
+.Carrusel{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    height: 150px;
+    
+    
+    
+}
+.titleCat{
+    font-size: 20pt;
+    color: rgb(13, 14, 13);
+    text-align: center;
+    font-family:'fantasy';
+
+
+
+}
+.titleCat:hover{
+    color: rgb(12, 134, 12);
+
+
+}
+
+.linea{
+    
+    border-color: rgb(42, 184, 228);
+
+}

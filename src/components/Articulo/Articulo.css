@@ -1,0 +1,22 @@
+.Lab-Img{
+    width: 80%;
+    height: 500px;
+    opacity: 30% ;
+   
+}
+
+.Article{
+    margin-top:60px;
+    padding: 0px 130px 0px 130px;
+   
+}
+.title-I{
+    font-family:sans-serif;
+    
+}
+.Contenido{
+   
+    /* background-color: rgb(211, 204, 204); */
+    font-size: 13pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
